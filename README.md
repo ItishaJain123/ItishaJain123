@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itishajain123&label=Profile%20views&color=0e75b6&style=flat" alt="itishajain123" /> </p>
 
-- 🌱 I’m currently learning **reactjs, NodeJs**
+- 🌱 I’m currently learning **reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItishaJain123](https://github.com/ItishaJain123)
 
