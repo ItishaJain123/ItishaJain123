@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Itisha Jain</h1>
-<h3 align="center">A CSE Sophomore who loves exploring new fields and empowering others.</h3>
+<h3 align="center">Frontend Developer with 1+ years of hands-on experience in building responsive, scalable web applications using React.js and TypeScript. Proficient in modern frontend technologies including Redux, Zustand, Tailwind CSS, and REST API integrations. Adept at collaborating with designers and backend teams to deliver performant and user-friendly UIs. Enthusiastic about writing clean, testable code and staying updated with industry best practices.
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
@@ -12,8 +13,6 @@
 - 💬 Ask me about **CSS3, HTML5, C++, C, MySQL**
 
 - 📫 How to reach me **jainitisha192@gmail.com**
-
-- ⚡ Fun fact **I love reading fictional wattpad novels😋😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
