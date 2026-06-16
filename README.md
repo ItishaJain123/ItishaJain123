@@ -3,6 +3,12 @@
 <h3 align="center">Frontend-leaning Full Stack Engineer • React · Next.js · TypeScript</h3>
 
 <p align="center">
+  <a href="https://itisha-jain-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0e75b6?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ItishaJain123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -14,7 +20,7 @@
 - 🧩 Owner of a shared **React + TypeScript component library** used across multiple product teams
 - ⚡ I love building **component systems, performance-tuned UIs, and end-to-end features** spanning React, Node.js/Express, and PostgreSQL
 - 🤖 Exploring **GenAI** — RAG pipelines, multi-agent orchestration, and LLM-powered products
-- 🌱 Currently sharpening **Next.js App Router, system design, and testing**
+- 🌐 Check out my work at **[itisha-jain-portfolio.vercel.app](https://itisha-jain-portfolio.vercel.app/)**
 - 📫 Reach me at **jainitisha192@gmail.com**
 
 ---
@@ -56,6 +62,8 @@
 | **🩺 MedDoc-AI** | RAG-based clinical document assistant with streaming chat and a 4-agent extraction pipeline returning source-cited answers | Next.js · LangChain · Gemini · PostgreSQL |
 | **🧠 Mentai** | AI career assistant generating tailored resumes & cover letters via background LLM jobs | Next.js · Clerk · Inngest · ShadcnUI |
 
+> 🌐 See these and more live on my **[portfolio](https://itisha-jain-portfolio.vercel.app/)**
+
 ---
 
 ### 📊 GitHub Stats
@@ -74,6 +82,9 @@
 ### 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://itisha-jain-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/itisha-jain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
