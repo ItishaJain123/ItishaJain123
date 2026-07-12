@@ -7,39 +7,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=6EE7B7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Itisha+Jain+%F0%9F%91%8B;Frontend-focused+Full+Stack+Engineer+(MERN);I+build+design+systems+%26+GenAI+apps;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+PostgreSQL+%C2%B7+LangChain" alt="typing header" />
 </h1>
 
-<!-- ────────────────────────  ASCII AVATAR  +  NEOFETCH  ──────────────────── -->
-<table border="0" align="center">
+<!-- ────────────────────────────  NEOFETCH  ──────────────────────────── -->
+<table align="center">
 <tr>
-<td valign="top" width="46%">
-
-```
-        .-"""""-.
-      .'  _   _  '.
-     /   (o) (o)   \
-    :        <      :
-    :   \       /   :
-     \   '.___.'   /
-      '.         .'
-        '-.....-'
-       __|     |__
-      /  |itisha|  \
-     /   |______|   \
-    |   /|      |\   |
-    |__/ |      | \__|
-         |______|
-         |  ||  |
-         |__||__|
-```
-
-<sub>↑ want <b>your face</b> here? paste a photo into a free web tool like
-<a href="https://www.ascii-art-generator.org/">ascii-art-generator.org</a>
-and drop the text between the ``` fences above. No code needed.</sub>
-
-</td>
-<td valign="top" width="54%">
+<td>
 
 ```yaml
-itisha@github ────────────────────────────
+itisha@github ─────────────────────────────
   OS ........ MERN / TypeScript
   Host ...... Eazy ERP · Gurgaon 🇮🇳
   Role ...... Software Developer (Frontend-focused)
@@ -51,7 +25,7 @@ itisha@github ──────────────────────
   DevOps .... GitHub Actions · Vite · Vercel
   Packages .. 40+ component design system
   Awards .... 🏆 Top 20 Gold Club Achiever
-  Uptime .... LCP 4.5s → 1.8s · API calls −40%
+  Metrics ... LCP 4.5s → 1.8s · API calls −40%
 ────────────────────────────────────────────
   ◍ ◍ ◍   let's build something fast & clean
 ```
@@ -83,7 +57,7 @@ itisha@github ──────────────────────
   <img height="165" src="https://streak-stats.demolab.com/?user=ItishaJain123&hide_border=true&background=0d1117&stroke=6ee7b7&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
 </p>
 
-<!-- ───────────────────────  SNAKE (auto-updates daily)  ─────────────────── -->
+<!-- ────────────────────────  SNAKE (auto-updates daily)  ──────────────────── -->
 ### 🐍 My contribution graph, eaten daily
 
 <p align="center">
