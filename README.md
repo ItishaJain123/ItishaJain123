@@ -1,94 +1,108 @@
-<h1 align="center">Hi 👋, I'm Itisha Jain</h1>
+<!-- ══════════════════════════════════════════════════════════════════════
+                          ItishaJain123 · profile README
+     Rendered at github.com/ItishaJain123 because this repo == the username.
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Frontend-leaning Full Stack Engineer • React · Next.js · TypeScript</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=6EE7B7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Itisha+Jain+%F0%9F%91%8B;Frontend-focused+Full+Stack+Engineer+(MERN);I+build+design+systems+%26+GenAI+apps;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+PostgreSQL+%C2%B7+LangChain" alt="typing header" />
+</h1>
 
+<!-- ────────────────────────  ASCII AVATAR  +  NEOFETCH  ──────────────────── -->
+<table border="0" align="center">
+<tr>
+<td valign="top" width="46%">
+
+```
+        .-"""""-.
+      .'  _   _  '.
+     /   (o) (o)   \
+    :        <      :
+    :   \       /   :
+     \   '.___.'   /
+      '.         .'
+        '-.....-'
+       __|     |__
+      /  |itisha|  \
+     /   |______|   \
+    |   /|      |\   |
+    |__/ |      | \__|
+         |______|
+         |  ||  |
+         |__||__|
+```
+
+<sub>↑ want <b>your face</b> here? paste a photo into a free web tool like
+<a href="https://www.ascii-art-generator.org/">ascii-art-generator.org</a>
+and drop the text between the ``` fences above. No code needed.</sub>
+
+</td>
+<td valign="top" width="54%">
+
+```yaml
+itisha@github ────────────────────────────
+  OS ........ MERN / TypeScript
+  Host ...... Eazy ERP · Gurgaon 🇮🇳
+  Role ...... Software Developer (Frontend-focused)
+  Uptime .... 2.5 yrs shipping production React
+  Kernel .... React · Next.js (App Router)
+  Shell ..... Node.js · Express · PostgreSQL
+  Data ...... React Query · Redux · Prisma · Redis
+  AI ........ LangChain · RAG · Gemini · Pinecone
+  DevOps .... GitHub Actions · Vite · Vercel
+  Packages .. 40+ component design system
+  Awards .... 🏆 Top 20 Gold Club Achiever
+  Uptime .... LCP 4.5s → 1.8s · API calls −40%
+────────────────────────────────────────────
+  ◍ ◍ ◍   let's build something fast & clean
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ────────────────────────────  SOCIAL  ──────────────────────────── -->
 <p align="center">
-  <a href="https://itisha-jain-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0e75b6?style=for-the-badge" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItishaJain123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 **Software Developer @ Eazy ERP** — sole frontend engineer on a multi-module ERP suite (Retail Eazy, Licensing Portal, Eazy CRM)
-- 🧩 Owner of a shared **React + TypeScript component library** used across multiple product teams
-- ⚡ I love building **component systems, performance-tuned UIs, and end-to-end features** spanning React, Node.js/Express, and PostgreSQL
-- 🤖 Exploring **GenAI** — RAG pipelines, multi-agent orchestration, and LLM-powered products
-- 🌐 Check out my work at **[itisha-jain-portfolio.vercel.app](https://itisha-jain-portfolio.vercel.app/)**
-- 📫 Reach me at **jainitisha192@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**GenAI & Tooling**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 💼 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| **🧥 StyleGenie** | Full-stack AI wardrobe organizer — pile-photo clothing detection, outfit suggestions, cost-per-wear analytics & tiered subscriptions | Next.js · Express · Prisma · Gemini · Razorpay |
-| **🩺 MedDoc-AI** | RAG-based clinical document assistant with streaming chat and a 4-agent extraction pipeline returning source-cited answers | Next.js · LangChain · Gemini · PostgreSQL |
-| **🧠 Mentai** | AI career assistant generating tailored resumes & cover letters via background LLM jobs | Next.js · Clerk · Inngest · ShadcnUI |
-
-> 🌐 See these and more live on my **[portfolio](https://itisha-jain-portfolio.vercel.app/)**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItishaJain123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItishaJain123&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItishaJain123&theme=tokyonight" alt="streak stats" />
+  <a href="https://linkedin.com/in/itisha-jain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://itisha-jain-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:jainitisha192@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ItishaJain123&style=for-the-badge&color=6ee7b7&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
 ---
 
-### 🤝 Connect With Me
+### 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://itisha-jain-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/itisha-jain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jainitisha192@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,postgres,prisma,mongodb,redis,jest,vite,vercel,git,github,figma&perline=9" alt="stack"/>
 </p>
+
+<!-- ────────────────────────────  STREAK  ──────────────────────────── -->
+### 🔥 Streak
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=ItishaJain123&hide_border=true&background=0d1117&stroke=6ee7b7&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
+</p>
+
+<!-- ───────────────────────  SNAKE (auto-updates daily)  ─────────────────── -->
+### 🐍 My contribution graph, eaten daily
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItishaJain123/ItishaJain123/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItishaJain123/ItishaJain123/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ItishaJain123/ItishaJain123/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ────────────────────────────  PROJECTS  ──────────────────────────── -->
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[StyleGenie](https://github.com/ItishaJain123/stylegenie)** · [live](https://stylegenie-alpha.vercel.app/) | AI wardrobe organizer — detects clothes from one pile photo, plans outfits, cost-per-wear analytics | Next.js · Express · Gemini · TanStack · Razorpay |
+| **[MedDoc AI](https://github.com/ItishaJain123/meddoc-ai)** · [live](https://meddoc-ai.vercel.app/) | RAG clinical doc assistant — 4-agent extraction, source-cited, token-streamed answers | Next.js · LangChain · Gemini · Pinecone · Prisma |
+| **[Mentai](https://github.com/ItishaJain123/mentai)** | AI career assistant — tailored resumes & cover letters via background LLM jobs | Next.js · Clerk · Inngest · ShadcnUI |
+
+---
+
+<p align="center"><sub>⚡ Built with Claude Code · this graph redraws itself every day via GitHub Actions — no paid tools.</sub></p>
