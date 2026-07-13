@@ -53,6 +53,3 @@
 | **[MedDoc AI](https://github.com/ItishaJain123/meddoc-ai)** · [live](https://meddoc-ai.vercel.app/) | RAG clinical doc assistant — 4-agent extraction, source-cited, token-streamed answers | Next.js · LangChain · Gemini · Pinecone · Prisma |
 | **[Mentai](https://github.com/ItishaJain123/mentai)** | AI career assistant — tailored resumes & cover letters via background LLM jobs | Next.js · Clerk · Inngest · ShadcnUI |
 
----
-
-<p align="center"><sub>⚡ Built with Claude Code · the terminal above and this graph redraw themselves — no paid tools.</sub></p>
