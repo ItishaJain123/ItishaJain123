@@ -23,7 +23,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,nodejs,express,postgres,prisma,mongodb,redis,jest,vite,vercel,git,github,figma&perline=9" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,cpp,redux,tailwind,nodejs,express,postman,postgres,prisma,mongodb,redis,jest,vite,vercel,git,github&perline=10" alt="stack"/>
 </p>
 
 <!-- ────────────────────────────  STREAK  ──────────────────────────── -->
