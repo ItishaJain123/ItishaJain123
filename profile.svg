@@ -60,7 +60,7 @@
   <rect x="520" y="58" width="100" height="14" fill="#0b0f17"/>
   <text x="526" y="69" font-size="11" letter-spacing="2" fill="#56b6f2">SYSTEM.INFO</text>
 
-  <g clip-path="url(#reveal)" font-size="14">
+  <g font-size="14">
     <text x="524" y="100" font-size="15" font-weight="700" fill="#c792ea">itisha<tspan fill="#6ee7b7">@</tspan>devos</text>
     <line x1="640" y1="96" x2="1140" y2="96" stroke="#2a3140" stroke-dasharray="2,4"/>
 
