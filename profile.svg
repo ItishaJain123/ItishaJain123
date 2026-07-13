@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640" font-family="'JetBrains Mono','Cascadia Code','DejaVu Sans Mono',Consolas,monospace" xml:space="preserve">
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#6ee7b7"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="leftpane"><rect x="20" y="64" width="470" height="546" rx="10"/></clipPath>
+    <clipPath id="reveal">
+      <rect x="498" y="58" width="672" height="0">
+        <animate attributeName="height" from="0" to="556" begin="0.3s" dur="2.1s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="2" y="2" width="1176" height="636" rx="16" fill="#0b0f17"/>
+  <rect x="2.5" y="2.5" width="1175" height="635" rx="15.5" fill="none" stroke="url(#frame)" stroke-width="1.5" opacity="0.9"/>
+
+  <!-- title bar -->
+  <circle cx="28" cy="28" r="6.5" fill="#ff5f56"/>
+  <circle cx="50" cy="28" r="6.5" fill="#ffbd2e"/>
+  <circle cx="72" cy="28" r="6.5" fill="#27c93f"/>
+  <text x="590" y="33" text-anchor="middle" font-size="14" fill="#8b949e">itisha@devos ~ % ./profile.sh --live</text>
+  <circle cx="1086" cy="28" r="5" fill="#ff5f56">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1100" y="32" font-size="12" letter-spacing="1.5" fill="#ff5f56">SCANNING</text>
+  <line x1="14" y1="50" x2="1166" y2="50" stroke="#1c2430" stroke-width="1"/>
+
+  <!-- ===================== LEFT PANE : VISUAL.MAP ===================== -->
+  <rect x="20" y="64" width="470" height="546" rx="10" fill="#0a0d14" stroke="#164e63" stroke-opacity="0.7"/>
+  <rect x="34" y="58" width="94" height="14" fill="#0b0f17"/>
+  <text x="40" y="69" font-size="11" letter-spacing="2" fill="#56b6f2">VISUAL.MAP</text>
+
+  <g clip-path="url(#leftpane)">
+    <!-- moving hologram scan band -->
+    <rect x="20" y="64" width="470" height="46" fill="url(#scan)">
+      <animate attributeName="y" values="64;560;64" dur="4.5s" repeatCount="indefinite" calcMode="linear"/>
+    </rect>
+    <!-- ascii portrait -->
+    <text x="88" y="170" font-size="13" fill="#7aa2f7" font-weight="600">
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="1.6s" fill="freeze"/>
+      <tspan x="88" dy="0">                    "=*c*&lt;=-^</tspan>
+      <tspan x="88" dy="15.6">                  :*W@W@@@@@Wa_.</tspan>
+      <tspan x="88" dy="15.6">                 =Wa=~;;-+&gt;aW@@&lt;</tspan>
+      <tspan x="88" dy="15.6">                "@c:"^^^^^":_*%@~</tspan>
+      <tspan x="88" dy="15.6">               .c#_--;:":;___-+zX.</tspan>
+      <tspan x="88" dy="15.6">               **-cX#o~;c#%a&lt;:=#"</tspan>
+      <tspan x="88" dy="15.6">               .-=:_&gt;&gt;=:^^+&lt;_:^=o-</tspan>
+      <tspan x="88" dy="15.6">               ._="^":^`'``::"""+&gt;&gt;^</tspan>
+      <tspan x="88" dy="15.6">              ..&gt;#&gt;-*&gt;-+++_cc_+#Wa:.</tspan>
+      <tspan x="88" dy="15.6">             ..^o@@o&gt;++&lt;&gt;&lt;++&lt;&lt;%@@%:.</tspan>
+      <tspan x="88" dy="15.6">            ...+##@@#&gt;~-+_~_&lt;a@@@W*^'.</tspan>
+      <tspan x="88" dy="15.6">           . :c%WWW@@#a*cc&gt;&gt;cW@@@@W=''</tspan>
+      <tspan x="88" dy="15.6">            ;#XWW@@@@zzocc*o#@W@WWWa+;..</tspan>
+      <tspan x="88" dy="15.6">        .^:+zWWWW@@@@o*cccoX%W@WWWW#%#zc&gt;+~^.</tspan>
+      <tspan x="88" dy="15.6">      '&gt;az#@W@@##@@@@&lt;";+==++#@@@@#####%%XXX&lt;</tspan>
+      <tspan x="88" dy="15.6">    . +WXX%W@@@WWW@W@c.``^`"*@#W@@#W#%%XXXX%X" .</tspan>
+      <tspan x="88" dy="15.6">   . 'a%XX%#W@@@@W@W#W_^``;*@@WWW@@@#%%%%X%%#+ .</tspan>
+      <tspan x="88" dy="15.6">   . ;W#%X%##W@@@@WWW@a:"^~cW@@@@W@@@#%%%%#%W* .</tspan>
+      <tspan x="88" dy="15.6">  .. &gt;#WW%#WWW#@@@@W@@@&lt;"`:%@@@@@#WWW@#%%###Wc .</tspan>
+      <tspan x="88" dy="15.6">... 'z%#WW@@@W##WW@@@@@X""&lt;@@W@@@%#@@WW##@WWWo..</tspan>
+      <tspan x="88" dy="15.6">... ;%%#W@@@W@@@@@@@@@@Woa#@@@WWWWW@WWW@@@W##a'.</tspan>
+      <tspan x="88" dy="15.6">... =W##W@@@@@@@@@@@@@@@#oW@@@W@W@@WW@@@@@#%#X`.</tspan>
+    </text>
+    <text x="255" y="588" text-anchor="middle" font-size="11" letter-spacing="1" fill="#3d4657">— rendered from a real photo —</text>
+  </g>
+
+  <!-- ===================== RIGHT PANE : SYSTEM.INFO ===================== -->
+  <rect x="505" y="64" width="655" height="546" rx="10" fill="#0a0d14" stroke="#164e63" stroke-opacity="0.7"/>
+  <rect x="520" y="58" width="100" height="14" fill="#0b0f17"/>
+  <text x="526" y="69" font-size="11" letter-spacing="2" fill="#56b6f2">SYSTEM.INFO</text>
+
+  <g clip-path="url(#reveal)" font-size="14">
+    <!-- header -->
+    <text x="524" y="100" font-size="15" font-weight="700" fill="#c792ea">itisha<tspan fill="#6ee7b7">@</tspan>devos</text>
+    <line x1="640" y1="96" x2="1140" y2="96" stroke="#2a3140" stroke-dasharray="2,4"/>
+
+    <!-- info rows -->
+    <g fill="#c9d3e0">
+      <!-- Subject -->
+      <text x="524" y="130" fill="#3d4657">·</text>
+      <text x="540" y="130" fill="#56b6f2">Subject</text>
+      <line x1="613" y1="126" x2="712" y2="126" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="130">Itisha Jain</text>
+      <!-- Role -->
+      <text x="524" y="152" fill="#3d4657">·</text>
+      <text x="540" y="152" fill="#56b6f2">Role</text>
+      <line x1="588" y1="148" x2="712" y2="148" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="152">Frontend-focused Full-Stack Eng · MERN</text>
+      <!-- Origin -->
+      <text x="524" y="174" fill="#3d4657">·</text>
+      <text x="540" y="174" fill="#56b6f2">Origin</text>
+      <line x1="605" y1="170" x2="712" y2="170" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="174">Gurgaon, India</text>
+      <!-- Education -->
+      <text x="524" y="196" fill="#3d4657">·</text>
+      <text x="540" y="196" fill="#56b6f2">Education</text>
+      <line x1="630" y1="192" x2="712" y2="192" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="196">B.Tech CSE · CGPA 9.10</text>
+      <!-- Status -->
+      <text x="524" y="218" fill="#3d4657">·</text>
+      <text x="540" y="218" fill="#56b6f2">Status</text>
+      <line x1="605" y1="214" x2="712" y2="214" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="218" fill="#6ee7b7">Building • Shipping • Available</text>
+      <!-- ToolChain -->
+      <text x="524" y="240" fill="#3d4657">·</text>
+      <text x="540" y="240" fill="#56b6f2">ToolChain</text>
+      <line x1="630" y1="236" x2="712" y2="236" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="240">VS Code, Git, Vite, Figma, Postman</text>
+
+      <!-- core stack -->
+      <text x="524" y="274" fill="#3d4657">·</text>
+      <text x="540" y="274"><tspan fill="#7d8590">Core.</tspan><tspan fill="#56b6f2">Lang</tspan></text>
+      <line x1="630" y1="270" x2="712" y2="270" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="274">JavaScript, TypeScript, SQL, C++</text>
+
+      <text x="524" y="296" fill="#3d4657">·</text>
+      <text x="540" y="296"><tspan fill="#7d8590">Core.</tspan><tspan fill="#56b6f2">Frontend</tspan></text>
+      <line x1="665" y1="292" x2="712" y2="292" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="296">React, Next.js, Redux, TailwindCSS</text>
+
+      <text x="524" y="318" fill="#3d4657">·</text>
+      <text x="540" y="318"><tspan fill="#7d8590">Core.</tspan><tspan fill="#56b6f2">Backend</tspan></text>
+      <line x1="656" y1="314" x2="712" y2="314" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="318">Node.js, Express, REST, WebSockets</text>
+
+      <text x="524" y="340" fill="#3d4657">·</text>
+      <text x="540" y="340"><tspan fill="#7d8590">Core.</tspan><tspan fill="#56b6f2">Database</tspan></text>
+      <line x1="665" y1="336" x2="712" y2="336" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="340">PostgreSQL, MongoDB, Redis, Prisma</text>
+
+      <text x="524" y="362" fill="#3d4657">·</text>
+      <text x="540" y="362"><tspan fill="#7d8590">Core.</tspan><tspan fill="#56b6f2">AI</tspan></text>
+      <line x1="613" y1="358" x2="712" y2="358" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="362">LangChain, RAG, Gemini, Pinecone</text>
+    </g>
+
+    <!-- contact -->
+    <text x="524" y="396" font-size="13" font-weight="700" letter-spacing="1" fill="#6ee7b7">Contact</text>
+    <line x1="600" y1="392" x2="1140" y2="392" stroke="#2a3140" stroke-dasharray="2,4"/>
+    <g fill="#c9d3e0">
+      <text x="524" y="422" fill="#3d4657">·</text>
+      <text x="540" y="422"><tspan fill="#7d8590">Grid.</tspan><tspan fill="#56b6f2">Mail</tspan></text>
+      <line x1="613" y1="418" x2="712" y2="418" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="422">jainitisha192@gmail.com</text>
+
+      <text x="524" y="444" fill="#3d4657">·</text>
+      <text x="540" y="444"><tspan fill="#7d8590">Grid.</tspan><tspan fill="#56b6f2">Portfolio</tspan></text>
+      <line x1="672" y1="440" x2="712" y2="440" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="444">itisha-jain-portfolio.vercel.app</text>
+
+      <text x="524" y="466" fill="#3d4657">·</text>
+      <text x="540" y="466"><tspan fill="#7d8590">Grid.</tspan><tspan fill="#56b6f2">LinkedIn</tspan></text>
+      <line x1="665" y1="462" x2="712" y2="462" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="466">linkedin.com/in/itisha-jain</text>
+
+      <text x="524" y="488" fill="#3d4657">·</text>
+      <text x="540" y="488"><tspan fill="#7d8590">Grid.</tspan><tspan fill="#56b6f2">Github</tspan></text>
+      <line x1="647" y1="484" x2="712" y2="484" stroke="#2a3140" stroke-dasharray="2,4"/>
+      <text x="720" y="488">ItishaJain123</text>
+    </g>
+
+    <!-- live stats -->
+    <text x="524" y="522" font-size="13" font-weight="700" letter-spacing="1" fill="#6ee7b7">Live Stats</text>
+    <line x1="618" y1="518" x2="1140" y2="518" stroke="#2a3140" stroke-dasharray="2,4"/>
+    <text x="524" y="548" font-size="14" fill="#8b949e">See live GitHub stats &amp; streak below in README ↓</text>
+  </g>
+
+  <!-- blinking cursor after reveal -->
+  <rect x="900" y="537" width="9" height="15" fill="#6ee7b7" opacity="0">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;0.86" dur="2.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
